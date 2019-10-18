@@ -1,0 +1,17 @@
+[general]
+name=Magnetometry Tools
+qgisMinimumVersion=3.2
+description=Magnetometry Tools
+version=3.0
+author=C Hamilton
+email=adenaculture@gmail.com
+about=Magnetometry Tools.
+tracker=https://github.com/hamiltoncj/qgis-magnetometry-plugin/issues
+repository=https://github.com/hamiltoncj/qgis-magnetometry-plugin
+tags=magnetometry
+homepage=https://github.com/hamiltoncj/qgis-magnetometry-plugin
+category=Vector
+#icon=images/shapes.png
+experimental=False
+deprecated=False
+#changelog=
