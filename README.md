@@ -1,0 +1,1 @@
+# qgis-magtools-plugin
